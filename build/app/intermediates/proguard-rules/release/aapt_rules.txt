@@ -1,0 +1,4 @@
+# Referenced at /home/novisync/Flutter/npollv1 (3)/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.cadrac.polling.MainActivity { <init>(); }
+# Referenced at /home/novisync/Flutter/npollv1 (3)/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }

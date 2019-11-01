@@ -1,0 +1,10 @@
+# compiler: R8
+# compiler_version: 1.4.77
+# min_api: 16
+io.flutter.view.-$$Lambda$AccessibilityBridge$JBDpWWlF54eN0gel8Jn1hY7yOmE -> io.flutter.view.a:
+    io.flutter.view.AccessibilityBridge$SemanticsNode f$0 -> a
+io.flutter.view.-$$Lambda$AccessibilityBridge$_xgAbWhyKyeHrMGUVUYzbSFEeBY -> io.flutter.view.b:
+    io.flutter.view.-$$Lambda$AccessibilityBridge$_xgAbWhyKyeHrMGUVUYzbSFEeBY INSTANCE -> a
+io.flutter.view.AccessibilityBridge -> io.flutter.view.AccessibilityBridge:
+    boolean lambda$shouldSetCollectionInfo$0(io.flutter.view.AccessibilityBridge$SemanticsNode,io.flutter.view.AccessibilityBridge$SemanticsNode) -> a
+    boolean lambda$shouldSetCollectionInfo$1(io.flutter.view.AccessibilityBridge$SemanticsNode) -> a

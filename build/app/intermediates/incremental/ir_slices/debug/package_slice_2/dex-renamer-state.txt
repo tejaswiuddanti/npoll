@@ -1,0 +1,4 @@
+#Fri Jun 07 09:53:45 IST 2019
+base.0=/home/sriramg/Documents/Flutter/npollv1/build/app/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,8 @@
+com.cadrac.polling
+color ic_launcher_background
+drawable launch_background
+drawable poll1024
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+style LaunchTheme
